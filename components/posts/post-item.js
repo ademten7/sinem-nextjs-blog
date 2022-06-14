@@ -24,6 +24,7 @@ function PostItem({ title, image, excerpt, date, slug }) {
               alt={title}
               width={300}
               height={200}
+              //to be responsive and fill the cart
               layout="responsive"
             />
           </div>
